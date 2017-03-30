@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\New folder (5)\New folder_new\PhoneAway\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="E:\New folder (5)\New folder_new\PhoneAway\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_64d58682cf1552567e838704c056146bddabad71\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\New folder (5)\New folder_new\PhoneAway\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_fc18a0fdc80391aaf9a93e629f1a6f03cf6a9cf4\classes.dex" />
+    </item>
+    <item
+        jar="E:\New folder (5)\New folder_new\PhoneAway\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c13bf39b8737734b9aa6620b091ae63e7de52bba">
+        <dex dex="E:\New folder (5)\New folder_new\PhoneAway\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_de3db592cb21e65e42c838f7c63f32c6692e92c8\classes.dex" />
+    </item>
+    <item
+        jar="E:\New folder (5)\New folder_new\PhoneAway\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\New folder (5)\New folder_new\PhoneAway\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_fd7178b798312a0c35976761162708038da949a2\classes.dex" />
+    </item>
+    <item
+        jar="E:\New folder (5)\New folder_new\PhoneAway\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\New folder (5)\New folder_new\PhoneAway\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_1b3a373bde5fcadb5799ddc57ffce352be595bd6\classes.dex" />
+    </item>
+    <item
+        jar="E:\New folder (5)\New folder_new\PhoneAway\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\New folder (5)\New folder_new\PhoneAway\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_9baafe71b403f34a5faa9f204f31c6d86485a500\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anubhav Mittal\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="E:\New folder (5)\New folder_new\PhoneAway\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_322ed8adfb6912beb3f29298d728882a5f143d3a\classes.dex" />
+    </item>
+    <item
+        jar="E:\New folder (5)\New folder_new\PhoneAway\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\New folder (5)\New folder_new\PhoneAway\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_fe0335769996558159f6c3d842f45a01c00000ec\classes.dex" />
+    </item>
+    <item
+        jar="E:\New folder (5)\New folder_new\PhoneAway\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\New folder (5)\New folder_new\PhoneAway\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_03b8ff7dc4aa88e8d6ea37db41c3acab7b75522b\classes.dex" />
+    </item>
+    <item
+        jar="E:\New folder (5)\New folder_new\PhoneAway\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\New folder (5)\New folder_new\PhoneAway\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_a027bf199a33e042af2c21fb967dc03e86ea6af6\classes.dex" />
+    </item>
+    <item
+        jar="E:\New folder (5)\New folder_new\PhoneAway\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4f4bb90d2bd73eeb14b0486aa4f28a1b72ad4347">
+        <dex dex="E:\New folder (5)\New folder_new\PhoneAway\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d449251836b57016d16cc3814cb181005e679685\classes.dex" />
+    </item>
+
+</items>

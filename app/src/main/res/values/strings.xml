@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PhoneAway</string>
+    <string name="re_enter_password">Re-enter password</string>
+    <string name="help_text">&#x20;&#x20;&#x20;&#x20;&#x20;1. By default, the Login Password and Passcode are same.\n&#x20;&#x20;&#x20;&#x20;&#x20;2. This app allows the user to fetch missed calls, contact numbers and
+        IMEI no. of his/her phone through another device.\n&#x20;&#x20;&#x20;&#x20;&#x20;3. The user can change the mode of
+        his/her device to vibrate or general using the Profile Setup feature.\n&#x20;&#x20;&#x20;&#x20;&#x20;4. The user can play
+        alarm on his/her device even when the device is on silent/vibrate mode.
+    </string>
+    <string name="help_text_1">&#x20;&#x20;&#x20;&#x20;&#x20;5. The user can also know the IMEI number of his/her device via SMS.To know more about IMEI number and its
+        uses, check the Wikipedia page here.\n&#x20;&#x20;&#x20;&#x20;&#x20;6. History lists all the operations performed by the app.\n&#x20;&#x20;&#x20;&#x20;&#x20;7. The messages sent by the app and the user are saved in the default messaging app of the mobile. So, please make sure that you delete all the messages manually from your device.\n&#x20;&#x20;&#x20;&#x20;&#x20;8. Codes of all the features can be changed in Settings.\n&#x20;&#x20;&#x20;&#x20;&#x20;9. Enable/Disable
+        notifications in Settings.\n&#x20;&#x20;&#x20;&#x20;&#x20;10. Enable/Disable the applock for PhoneAway. If enabled, it
+        will require the password to open the app.
+    </string>
+    <string name="about_text">You can also visit our official PhoneAway Webpage.</string>
+</resources>
+
+
